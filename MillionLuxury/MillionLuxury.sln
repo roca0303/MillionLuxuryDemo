@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MillionLuxury", "MillionLuxury.csproj", "{19AC7F14-573F-45A9-8D07-4C452D264BBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MillionLuxuryUnitTest", "..\MillionLuxuryUnitTest\MillionLuxuryUnitTest.csproj", "{6A85C46C-8785-4D86-B381-DCA44D73F555}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19AC7F14-573F-45A9-8D07-4C452D264BBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19AC7F14-573F-45A9-8D07-4C452D264BBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19AC7F14-573F-45A9-8D07-4C452D264BBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19AC7F14-573F-45A9-8D07-4C452D264BBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A85C46C-8785-4D86-B381-DCA44D73F555}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A85C46C-8785-4D86-B381-DCA44D73F555}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A85C46C-8785-4D86-B381-DCA44D73F555}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A85C46C-8785-4D86-B381-DCA44D73F555}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9EB56D24-2587-42B4-8C07-E32560673BDB}
+	EndGlobalSection
+EndGlobal
